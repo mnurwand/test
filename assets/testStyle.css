@@ -1,0 +1,20 @@
+.row {
+    margin-bottom: 15px;
+  }
+  /* .row > div {
+    border: 2px solid red;
+    background-color: gray;
+  } */
+select.form-control {
+    width: 300px;
+    max-width: 90%;
+    vertical-align: middle;
+}
+.col {
+  /* margin: 15px; */
+  height:50px; 
+  vertical-align: middle;
+}
+#free-form-area {
+  height: 200px;
+}
